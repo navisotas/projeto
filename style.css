@@ -4,6 +4,11 @@ principal{
     color: aqua;
 }
 
+.principal{
+    background-color: blue;
+    color: aqua;
+}
+
 .rodape{
         background-color: brown;
         color: black;
