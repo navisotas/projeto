@@ -1,9 +1,11 @@
 #imagem-supra.{}
-
-
-
-
 principal{
     background-color: black;
     color: aqua;
+}
+
+.rodape{
+        background-color: brown;
+        color: black;
+        text-align: center;
 }
