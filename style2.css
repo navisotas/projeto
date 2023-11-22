@@ -7,3 +7,12 @@
     color: red;
     font-weight: 400
 }
+
+.principal{
+    background-color: black;
+    border: 10px;
+    border-color: aliceblue;
+    border-style: double;
+    margin: 10px;
+    color: aqua;
+}
